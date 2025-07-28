@@ -34,7 +34,7 @@ Check out my pinned repositories below to see my work on:
 ---
 
 ### 📫 How to reach me:
-- [LinkedIn](https://www.linkedin.com/in/alina-akhtar)
+- [LinkedIn]((https://www.linkedin.com/in/alina-akhtar-352821321/))
 - Email: `alinaakhtarw@gmail.com`
 
 ---
