@@ -1,16 +1,41 @@
 ## Hi there 👋
 
-<!--
-**Alina0075/Alina0075** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Alina**, a Computer Science student with a passion for solving problems and building projects using **C++**, **Python**, **JavaScript**, and working with **databases** and **UI design**.
 
-Here are some ideas to get you started:
+🐍 I'm on a journey to become a proficient **Python developer**.
+🎨 I love designing clean and simple user interfaces.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔭 I’m currently working on:
+- Python course and its projects 
+- Front-end development projects in JavaScript
+- A database-backed web project.
+
+---
+
+### 🌱 I’m currently learning:
+- Advanced Python and scripting
+- Full-stack development
+- UI/UX principles in Figma
+
+---
+
+### 📌 Pinned Repositories
+
+Check out my pinned repositories below to see my work on:
+
+- `DSA-Project` – Solving algorithmic problems in C++
+- `Programming-Fundamentals-Project` – Hands-on coding with C++ basics
+- `Data-Base-Project` – SQL schema and queries for relational databases
+- `Web-Assignment3` – Simple web app using HTML, CSS, JS
+- `HCI-Project` – UI design based on Human-Computer Interaction concepts
+
+---
+
+### 📫 How to reach me:
+- [LinkedIn](https://www.linkedin.com/in/alina-akhtar)
+- Email: `alinaakhtarw@gmail.com`
+
+---
+
