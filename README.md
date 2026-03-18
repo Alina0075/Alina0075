@@ -1,37 +1,81 @@
-## Hi there 👋
+👩‍💻 Alina Akhtar
 
-I'm **Alina**, a Computer Science student with a passion for solving problems and building projects using **C++**, **Python**, **JavaScript**, and working with **databases** and **UI design**.
+Computer Science student passionate about Cloud Computing, Machine Learning, and Networked Systems.
+I enjoy building scalable, intelligent systems and solving real-world problems using Python, C++, and cloud technologies.
 
-🐍 I'm on a journey to become a proficient **Python developer**.
-🎨 I love designing clean and simple user interfaces.
+🚀 About Me
 
----
+🎓 BS Computer Science @ University of Central Punjab
 
-### 🔭 I’m currently working on:
-- Python course and its projects 
-- Front-end development projects in JavaScript
-- A database-backed web project.
+☁️ AWS Academy Graduate (Cloud Foundations)
 
----
+🤖 Interested in AI-driven systems & cloud-based architectures
 
-### 🌱 I’m currently learning:
-- Advanced Python and scripting
-- Full-stack development
-- UI/UX principles in Figma
+🌐 Strong foundation in networking and distributed systems
 
----
+🔭 Current Work
 
-### 📌 Pinned Repositories
+🚧 Fraud Shield (FYP) — Deep learning–based fraud detection system
 
-Check out my pinned repositories below to see my work on:
+☁️ Exploring cloud-based ML systems (AWS & GCP)
 
-- `DSA-Project` – Solving algorithmic problems in C++
-- `Programming-Fundamentals-Project` – Hands-on coding with C++ basics
-- `Data-Base-Project` – SQL schema and queries for relational databases
-- `Web-Assignment3` – Simple web app using HTML, CSS, JS
-- `HCI-Project` – UI design based on Human-Computer Interaction concepts
+📊 Building scalable and efficient data-driven applications
 
----
+🌱 Currently Learning
+
+Advanced Python & Deep Learning
+
+Cloud Architecture (AWS & Google Cloud)
+
+Distributed Systems & System Design
+
+🧠 Key Projects
+🔹 Fraud Shield (Final Year Project)
+
+AI-based fraud detection system using deep learning and anomaly detection
+
+Focus on cloud-based model deployment and efficiency
+
+Inspired by research in cost-efficient cloud-based LLM fine-tuning
+
+🔹 Stellar Object Classification
+
+Machine learning pipeline using Logistic Regression (OvR)
+
+Achieved 95% accuracy on SDSS dataset
+
+Evaluated using ROC-AUC, F1-score, and Log Loss
+
+🔹 Campus Computer Network Design
+
+Enterprise-level network architecture
+
+VLANs, Inter-VLAN Routing
+
+OSPF, RIP v2, EIGRP
+
+ACL-based network security
+
+🔹 Data Structures & Algorithms
+
+Implemented advanced structures:
+
+Red-Black Trees (without parent pointers)
+
+Tries, Heaps, Hash Tables
+
+Optimized searching and memory usage
+
+🛠️ Tech Stack
+
+Languages:
+Python, C++, C, SQL
+
+Cloud & Tools:
+AWS, Google Cloud Platform, MySQL, Cisco Packet Tracer, Jupyter Notebook
+
+Concepts:
+Machine Learning, Deep Learning, Cloud Computing, Networking, Data Structures
 
 ### 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/alina-akhtar-352821321/)
