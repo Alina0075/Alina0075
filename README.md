@@ -108,6 +108,6 @@ Machine Learning • Deep Learning • Cloud Computing • Networking • System
 ## 📫 Connect With Me
 
 - 🔗 LinkedIn: https://www.linkedin.com/in/alina-akhtar/  
-- 📧 Email: alinaakhtarw@gmail.com  
+- 📧 Email: alinaakhtar144@gmail.com  
 
 ---
