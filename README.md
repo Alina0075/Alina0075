@@ -1,8 +1,7 @@
 # 👩‍💻 Alina Akhtar
 
-**AI/ML Engineer | Cloud & Data Systems Enthusiast**  
-Building intelligent, scalable, and data-driven systems using **Machine Learning, Deep Learning, and Cloud Computing**.
-
+**AI Engineer**
+Building intelligent, scalable, and data-driven systems using
 ---
 
 ## 🚀 About Me
