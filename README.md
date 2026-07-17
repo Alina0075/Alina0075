@@ -1,6 +1,7 @@
 # 👩‍💻 Alina Akhtar
 
-**AI Engineer**
+**AI Engineer
+
 Building intelligent, scalable, and data-driven systems using
 ---
 
